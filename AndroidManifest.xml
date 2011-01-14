@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="de.majug.callingleaks"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+    <receiver android:name=".MyService"><intent-filter>
+        	<action android:name="android.intent.action.PHONE_STATE" />
+         </intent-filter></receiver>
+</application>
+    <uses-permission android:name="android.permission.">
+</uses-permission>
+    <uses-sdk android:minSdkVersion="3" />
+
+<uses-permission android:name="android.permission.READ_CONTACTS"></uses-permission>
+<uses-permission
+        android:name="android.permission.INTERNET" />
+        <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+</manifest> 
