@@ -1,7 +1,9 @@
 h2{color:green}. Calling Leaks
 
 h3. Author
-Michael Ömler, Stefan Baust, Wladislaw Mitzel
+
+Michael Oemler, Stefan Baust, Wladislaw Mitzel
 
 h3. What's this?
+
 This is a little Android project we created at "majug android code camp":http://jug-mannheim.mixxt.de/networks/events/show_event.30988 and want to share with you. 
